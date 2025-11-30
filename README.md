@@ -1,1 +1,1 @@
-Coffee App with using Swift and Sqlite Database
+Coffee App with using Swift and Sqlite Database.
